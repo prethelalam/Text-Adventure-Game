@@ -11,4 +11,3 @@ The first problem I ran into was determining how to change directions after sele
 
 ## Conclusion:
  My takeaways from creating this text adventure game is to plan better and scale down my project. I believe that I did not plan as well as I could have initially. For my future projects, I will need to create a detailed plan that will breakdown exactly what I want the project to do. This will teach me how to execute my plans properly while as having a guide to follow. Moreover, I will scale my projects down a little in order to complete them within 2 weeks. I will begin by building the small items first, and if I have time, I will add more to it. Basically, since I am starting my journey, I want to underpromise and overdeliver. 
-
